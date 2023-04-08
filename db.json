@@ -1,40 +1,39 @@
 {
-    "productos": [
-      {
-        "id": 1,
-        "descripcion": "Bata de algodon",
-        "tipo":"batas de belleza",
-        "precio": 5000,
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fbata1.jpg?alt=media&token=c738059c-0d68-40a6-b2c3-59fdfb2239b0"
-      },
-      {
-        "id": 2,
-        "descripcion": "Bata de seda bordada",
-        "tipo":"batas de belleza",
-        "precio": 7000,
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fbata2.jpg?alt=media&token=dad2c72f-c99e-4b07-a191-e914db851408"
-      },
-      {
-        "id": 3,
-        "descripcion": "bata de novia bordada",
-        "tipo":"",
-        "precio": 8000,
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fnovia.jpg?alt=media&token=1be15370-41a7-4aca-9272-59e985ff9676"
-      },
-      {
-        "id": 4,
-        "descripcion": "bata de toalla",
-        "tipo":"batas de baño",
-        "precio": 34343,
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Frojayviolata.jpg?alt=media&token=08ebf054-42bc-46a1-9fb6-4c1795fb3b0b"
-      },
-      {
-        "id": 5,
-        "descripcion": "bata de seda con detalles de puntillas",
-        "tipo":"batas de seda con puntillas",
-        "precio": 7000,
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Frosas.jpg?alt=media&token=97de1580-895f-4481-a6d5-94db050bc6fa"
-      }
-     
+    "productos":[
+       {
+          "id":1,
+          "descripcion":"Bata de algodon",
+          "tipo":"batas de belleza",
+          "precio":5000,
+          "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fbata1.jpg?alt=media&token=c738059c-0d68-40a6-b2c3-59fdfb2239b0"
+       },
+       {
+          "id":2,
+          "descripcion":"Bata de seda bordada",
+          "tipo":"batas de belleza",
+          "precio":7000,
+          "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fbata2.jpg?alt=media&token=dad2c72f-c99e-4b07-a191-e914db851408"
+       },
+       {
+          "id":3,
+          "descripcion":"bata de novia bordada",
+          "tipo":"batas de novia",
+          "precio":8000,
+          "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fnovia.jpg?alt=media&token=1be15370-41a7-4aca-9272-59e985ff9676"
+       },
+       {
+          "id":4,
+          "descripcion":"bata de toalla",
+          "tipo":"batas de baño",
+          "precio":4500,
+          "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Frojayviolata.jpg?alt=media&token=08ebf054-42bc-46a1-9fb6-4c1795fb3b0b"
+       },
+       {
+          "id":5,
+          "descripcion":"bata de seda con detalles de puntillas",
+          "tipo":"batas de seda con puntillas",
+          "precio":7000,
+          "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Frosas.jpg?alt=media&token=97de1580-895f-4481-a6d5-94db050bc6fa"
+       }
     ]
-  }
+ }
