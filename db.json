@@ -16,7 +16,7 @@
        },
        {
           "id":3,
-          "descripcion":"bata de novia bordada",
+          "descripcion":"Bata de novia bordada",
           "tipo":"batas de novia",
           "precio":8000,
           "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fnovia.jpg?alt=media&token=1be15370-41a7-4aca-9272-59e985ff9676"
@@ -34,6 +34,20 @@
           "tipo":"batas de seda con puntillas",
           "precio":7000,
           "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Frosas.jpg?alt=media&token=97de1580-895f-4481-a6d5-94db050bc6fa"
-       }
+       },
+       {
+        "id":6,
+        "descripcion":"bata de seda para novia con detalles de puntillas",
+        "tipo":"batas de seda con puntillas",
+        "precio":7000,
+        "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fnovia2.jpg?alt=media&token=7ce7905f-e385-4566-a30e-6ee55725529e"
+     },
+     {
+        "id":7,
+        "descripcion":"bata de seda para novia con detalles de puntillas",
+        "tipo":"batas de seda con puntillas",
+        "precio":7000,
+        "imagen":"https://firebasestorage.googleapis.com/v0/b/batas-white.appspot.com/o/imagen%2Fnovia3.jpg?alt=media&token=985761a1-228a-43d1-980c-3d931f7d999d"
+     }
     ]
  }
